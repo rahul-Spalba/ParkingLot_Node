@@ -1,2 +1,9 @@
 # ParkingLot_Server
-Contains Api, Db connects
+
+npm install
+npm start
+
+#Seed
+node seeds/parkingLots.js
+
+#Use api's to interact with the backend
