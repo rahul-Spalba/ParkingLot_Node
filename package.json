@@ -1,0 +1,25 @@
+{
+  "name": "parkinglot_server",
+  "version": "1.0.0",
+  "description": "Contains Api, Db connects",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulbanjare95/ParkingLot_Server.git"
+  },
+  "author": "rahul.banjare95@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulbanjare95/ParkingLot_Server/issues"
+  },
+  "homepage": "https://github.com/Rahulbanjare95/ParkingLot_Server#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.8",
+    "nodemon": "^2.0.15"
+  }
+}
